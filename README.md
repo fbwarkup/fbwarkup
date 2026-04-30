@@ -9,6 +9,6 @@
 5. **done. (Gah Dayum🥀🥀🥀)**
 
 <picture>
-  <img alt="well at least" src="pointing.png">
+  <img alt="well at least" src="pointing.jpg">
 </picture>
 
